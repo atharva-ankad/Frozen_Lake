@@ -22,6 +22,6 @@ The agent learns to navigate a grid (the FrozenLake environment) from a start po
    ```
 
 ## What it does:
-- **Trains** a Q-Learning agent over 500 episodes to solve the puzzle.
+- **Trains** a Q-Learning agent over 2000 episodes to solve the puzzle.
 - **Plots** the learning curve (how the rewards improved over time) and saves it as `learning_curve.png`.
 - **Demonstrates** the trained agent by opening a graphical window where you can watch the agent effortlessly find its way to the goal!
